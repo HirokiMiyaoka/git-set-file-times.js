@@ -1,0 +1,25 @@
+{
+  "name": "git-set-file-times-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./docs/git-set-file-times.js",
+  "types": "./docs/git-set-file-times.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "start": "node ./docs/git-set-file-times.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HirokiMiyaoka/git-set-file-times.js.git"
+  },
+  "author": "Hiroki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HirokiMiyaoka/git-set-file-times.js/issues"
+  },
+  "homepage": "https://github.com/HirokiMiyaoka/git-set-file-times.js#readme",
+  "devDependencies": {
+    "@types/node": "^9.6.2"
+  }
+}
